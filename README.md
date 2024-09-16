@@ -2,7 +2,7 @@
 
 - 🌱 저는 꿈나무 학생 개발자 **초로퐁**입니다 ヾ(≧▽≦*)o
 - 💖 저에 대해 궁금하신가요? <a href="https://www.choropong.me">이 사이트</a>를 방문해보세요! ( •̀ ω •́ )✧
-- 📫 저와 연락하고 싶으시다면 <a href="https://discord.gg/qvSTBqyNEW">디스코드 서버</a> 또는 <a href="mailto:choropong@gmail.com" alt="choropong@gmail.com">메일</a>로 연락해주세요! (≧∇≦)ﾉ
+- 📫 저와 연락하고 싶으시다면 <a href="https://discord.gg/qvSTBqyNEW">디스코드 서버</a> 또는 <a href="mailto:choropong@gmail.com" title="choropong@gmail.com">메일</a>로 연락해주세요! (≧∇≦)ﾉ
 <!-- - 🔭 I’m currently working on Channel 5 Studio
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on ...
