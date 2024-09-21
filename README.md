@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=SUSE&weight=800&size=30&pause=100000&color=D2D4DE&center=true&vCenter=true&random=true&width=435&lines=Hi+There+👋)](https://git.io/typing-svg)
 
 - 🌱 저는 꿈나무 학생 개발자 **초로퐁**입니다 ヾ(≧▽≦*)o
-- 💖 저에 대해 궁금하신가요? <a href="https://www.choropong.me">이 사이트</a>를 방문해보세요! ( •̀ ω •́ )✧
+- 💖 저에 대해 궁금하신가요? <a href="https://choropong.me">이 사이트</a>를 방문해보세요! ( •̀ ω •́ )✧
 - 📫 저와 연락하고 싶으시다면 <a href="https://discord.gg/qvSTBqyNEW">디스코드 서버</a>의 문의 기능 사용 또는 <a href="mailto:choropong@gmail.com">choropong@gmail.com</a>으로 메일을 보내 연락해주세요! (≧∇≦)ﾉ
 <!-- - 🔭 I’m currently working on Channel 5 Studio
 - 🌱 I’m currently learning Unity
